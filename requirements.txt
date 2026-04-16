@@ -1,5 +1,6 @@
 fastapi==0.135.3
+uvicorn[standard]==0.30.6
 numpy==2.4.4
 opencv_python==4.13.0.92
-Requests==2.33.1
+requests==2.33.1
 ultralytics==8.4.37
