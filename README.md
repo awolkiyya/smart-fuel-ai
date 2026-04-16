@@ -12,6 +12,7 @@ This project is an AI-powered microservice that detects vehicles in fuel station
 It is designed for **smart city fuel station optimization and traffic intelligence systems**.
 
 ---
+
 # 📸 Demo Screenshots
 
 Below are real outputs from the AI system running YOLO-based vehicle detection:
@@ -19,17 +20,17 @@ Below are real outputs from the AI system running YOLO-based vehicle detection:
 ---
 
 ## 🚗 Fuel Station Vehicle Detection
-![Detection](https://github.com/awolkiyya/smart-fuel-ai/blob/main/screenshots/demo1.png)
+<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo1.png" width="700"/>
 
 ---
 
 ## 📊 Queue Analysis API Response
-![API](https://github.com/awolkiyya/smart-fuel-ai/blob/main/screenshots/demo2.png)
+<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo2.png" width="700"/>
 
 ---
 
 ## 🚦 Traffic Status Classification
-![Traffic](https://github.com/awolkiyya/smart-fuel-ai/blob/main/screenshots/demo3.png)
+<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo3.png" width="700"/>
 
 # 📌 System Overview
 
