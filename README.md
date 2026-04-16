@@ -2,6 +2,21 @@ Here is a **clean, professional, “investor-ready” README.md** for your AI se
 
 ---
 
+## 📸 Demo Screenshots
+
+### 🚗 Fuel Station Vehicle Detection
+<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo1.png" width="700"/>
+
+---
+
+### 📊 Queue Analysis API Response
+<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo2.png" width="700"/>
+
+---
+
+### 🚦 Traffic Status Classification
+<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo3.png" width="700"/>
+
 ```markdown
 # 🚀 Smart Fuel Station AI Queue Monitoring System
 
@@ -19,20 +34,19 @@ Below are real outputs from the AI system running YOLO-based vehicle detection:
 
 ---
 
-## 📸 Demo Screenshots
-
-### 🚗 Fuel Station Vehicle Detection
-<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo1.png" width="700"/>
+## 🚗 Fuel Station Vehicle Detection
+![Detection](https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo1.png)
 
 ---
 
-### 📊 Queue Analysis API Response
+## 📊 Queue Analysis API Response
 <img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo2.png" width="700"/>
 
 ---
 
-### 🚦 Traffic Status Classification
-<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo3.png" width="700"/>
+## 🚦 Traffic Status Classification
+<img src="./screenshots/demo3.png" width="700"/>
+
 # 📌 System Overview
 
 The AI server receives images from a backend system (or CCTV/mobile camera), runs object detection using YOLO, and returns:
@@ -60,21 +74,6 @@ JSON Response (Queue + Traffic Status)
 ````
 
 ---
-
-## 📸 Demo Screenshots
-
-### 🚗 Fuel Station Vehicle Detection
-<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo1.png" width="700"/>
-
----
-
-### 📊 Queue Analysis API Response
-<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo2.png" width="700"/>
-
----
-
-### 🚦 Traffic Status Classification
-<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo3.png" width="700"/>
 
 # 🤖 AI Technology Stack
 
