@@ -19,17 +19,17 @@ Below are real outputs from the AI system running YOLO-based vehicle detection:
 ---
 
 ## 🚗 Fuel Station Vehicle Detection
-![Detection](./public//screenshots/demo1.png)
+![Detection](./screenshots/demo1.png)
 
 ---
 
 ## 📊 Queue Analysis API Response
-![API](./public/screenshots/demo2.png)
+![API](./screenshots/demo2.png)
 
 ---
 
 ## 🚦 Traffic Status Classification
-![Traffic](./public/screenshots/demo3.png)
+![Traffic](./screenshots/demo3.png)
 
 # 📌 System Overview
 
