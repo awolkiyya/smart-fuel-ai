@@ -20,7 +20,7 @@ Below are real outputs from the AI system running YOLO-based vehicle detection:
 ---
 
 ## 🚗 Fuel Station Vehicle Detection
-<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo1.png" width="700"/>
+![Detection](https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo1.png)
 
 ---
 
