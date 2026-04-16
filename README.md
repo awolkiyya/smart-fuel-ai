@@ -61,6 +61,21 @@ JSON Response (Queue + Traffic Status)
 
 ---
 
+## 📸 Demo Screenshots
+
+### 🚗 Fuel Station Vehicle Detection
+<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo1.png" width="700"/>
+
+---
+
+### 📊 Queue Analysis API Response
+<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo2.png" width="700"/>
+
+---
+
+### 🚦 Traffic Status Classification
+<img src="https://raw.githubusercontent.com/awolkiyya/smart-fuel-ai/main/screenshots/demo3.png" width="700"/>
+
 # 🤖 AI Technology Stack
 
 - :contentReference[oaicite:0]{index=0} (Vehicle detection)
